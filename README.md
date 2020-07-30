@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![kk6's github stats](https://github-readme-stats.vercel.app/api?username=kk6&show_icons=true&theme=vue&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk6&hide=css,html,Vim+script&theme=vue&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kk6)
